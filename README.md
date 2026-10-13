@@ -13,6 +13,10 @@ CodeOwl is a full-stack developer tool for understanding GitHub repositories fas
 - See file and line citations alongside AI responses.
 - Track indexing progress and start separate chat sessions per repository.
 
+## Demo
+
+[Watch the demo video](https://youtu.be/JvOow-aQMrY)
+
 ## Product tour
 
 ### Overview
