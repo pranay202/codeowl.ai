@@ -1,0 +1,12 @@
+/* Product color source of truth. Update these variables to re-theme CodeOwl. */
+:root {
+  --brand-primary: oklch(0.62 0.19 150);
+  --brand-primary-foreground: oklch(0.12 0.025 155);
+  --brand-icon: #22c55e;
+  --brand-icon-foreground: #fff;
+}
+
+.dark {
+  --brand-primary: oklch(0.78 0.2 145);
+  --brand-primary-foreground: oklch(0.13 0.035 155);
+}
