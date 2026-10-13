@@ -186,4 +186,4 @@ npm run lint      # lint the client
 
 ## License
 
-No license has been declared in this repository yet. Add a license before distributing CodeOwl outside your team.
+CodeOwl is released under the [MIT License](LICENSE).
